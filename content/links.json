@@ -1,0 +1,77 @@
+{ 
+	"categories": [
+		{ 
+			"category_name": "Gradle",
+			"links": [
+				{"url": "http://tools.android.com/tech-docs/new-build-system/user-guide", "text": "User guide"},
+				{"url": "http://www.youtube.com/watch?v=LCJAgPkpmR0", "text": "Introduction lecture"},
+				{"url": "http://www.gradleware.com/resources/tech/android", "text": "Gradleware about Android"}
+			]
+		},
+		{ 
+			"category_name": "UI Libraries",
+			"links": [
+				{"url": "https://github.com/chrisbanes/ActionBar-PullToRefresh", "text": "Pull-to-refresh GMail style"},
+				{"url": "https://github.com/derekbrameyer/android-betterpickers", "text": "Cool looking date/time pickers"},
+				{"url": "https://github.com/emilsjolander/StickyListHeaders", "text": "Sticky list headers"},
+				{"url": "https://github.com/jfeinstein10/SlidingMenu", "text": "Sliding menu"},
+				{"url": "http://codeascraft.com/2014/01/13/android-staggered-grid/", "text": "Staggered grid"}
+			]
+		},
+		{ 
+			"category_name": "General sources",
+			"links": [
+				{"url": "https://github.com/thecodepath/android_guides/wiki#getting-started", "text": "Android Guides"},
+				{"url": "http://www.inappsquared.com/devappsdirect_library_ranking.php", "text": "InAppSquared library ranking"},
+				{"url": "https://github.com/ark/ark", "text": "Ark library repository"},
+				{"url": "http://www.androidviews.net/", "text": "UI elements library"}
+			]
+		},
+		{ 
+			"category_name": "Network",
+			"links": [
+				{"url": "http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/", "text": "Volley"},
+				{"url": "http://javapapers.com/android/google-cloud-messaging-gcm-for-android-and-push-notifications/", "text": "GCM walkthrough"}
+			]
+		},
+		{ 
+			"category_name": "Others",
+			"links": [
+				{"url": "https://github.com/square/otto", "text": "Otto"}
+			]
+		},
+		{ 
+			"category_name": "Design",
+			"links": [
+				{"url": "https://docs.google.com/file/d/0Bz3qX4EBhUvwZWlHekI3Y0wxSUk/edit", "text": "Awesome Android Design PDF"},
+				{"url": "http://codeascraft.com/2014/01/13/android-staggered-grid/", "text": "Staggered grid: Etsy blog"},
+				{"url": "http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/", "text": "Designer cheatsheet"},
+				{"url": "http://androidniceties.tumblr.com/", "text": "Android Niceties"},
+				{"url": "http://androidux.com/", "text": "AndroidUX"},
+				{"url": "http://uxarchive.com/", "text": "UXArchive"},
+				{"url": "http://www.behance.net/", "text": "Behance"},
+				{"url": "http://dribbble.com/", "text": "Dribbble"},
+				{"url": "http://www.gratisography.com/", "text": "gratisography"}
+			]
+		},
+		{ 
+			"category_name": "Tools",
+			"links": [
+				{"url": "https://github.com/asystat/Final-Android-Resizer", "text": "Asset resizer"},
+				{"url": " http://ninjamock.com/", "text": "Mocking"}
+			]
+		},
+		{ 
+			"category_name": "Intellij",
+			"links": [
+				{"url": "http://stackoverflow.com/questions/19818112/android-studio-layout-previews-for-listview-gridview", "text": "Previewing ListView elements"}
+			]
+		},
+		{ 
+			"category_name": "Java",
+			"links": [
+				{"url": "http://www.programcreek.com/wp-content/uploads/2014/01/SimpleJava.pdf", "text": "Simple Java"}
+			]
+		}
+	]
+}

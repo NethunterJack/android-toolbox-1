@@ -1,0 +1,19 @@
+{{#each categories}}
+
+	<h2>{{category_name}}</h2>
+	{{category_description}}
+
+	{{#each links}}
+	
+		<h4>
+		{{link url text}}
+		{{#each labels}}
+			<span class="label label-primary">{{this}}</span>
+		{{/each}}
+		</h4>
+		{{description}}
+		
+	{{/each}}
+
+{{/each}}
+
