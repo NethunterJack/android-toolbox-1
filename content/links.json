@@ -72,6 +72,10 @@
 			"links": [
 				{"url": "http://www.programcreek.com/wp-content/uploads/2014/01/SimpleJava.pdf", "text": "Simple Java"}
 			]
+		},
+		{
+			"category_name": "Error reporting",
+			"links": []
 		}
 	]
 }
